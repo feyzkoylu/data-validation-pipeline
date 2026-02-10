@@ -1,0 +1,4 @@
+pandas
+great_expectations
+slack_sdk
+pydantic
